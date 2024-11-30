@@ -11,7 +11,7 @@ int main() {
     double average;
 
     // Open the file for reading
-    file = fopen("elephant_seal_data.txt", "r");
+    file = fopen("dataset.txt", "r");
     if (file == NULL) {
         fprintf(stderr, "Error: Could not open the file.\n");
         return 1;
