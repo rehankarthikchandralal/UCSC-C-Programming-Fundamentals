@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define MAX_SIZE 1000  // Adjust based on expected data size
+#define MAX_SIZE 5000  // Adjust based on expected data size
 
 int main() {
     FILE *file;
